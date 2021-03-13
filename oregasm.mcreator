@@ -126,6 +126,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "oregasm_tools"
+    },
+    {
+      "name": "OregasmWeapons",
+      "type": "tab",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oregasm_weapons"
     }
   ],
   "variable_elements": [],
@@ -135,12 +144,13 @@
       "item.oregasm.ruby": "Ruby",
       "itemGroup.taboregasm_tools": "Oregasm Tools",
       "itemGroup.taboregasm": "Oregasm Ore",
+      "itemGroup.taboregasm_weapons": "Oregasm Weapons",
       "block.oregasm.ruby_ore": "Ruby Ore",
-      "item.oregasm.rubytool_pickaxe": "Rubytool Pickaxe",
-      "item.oregasm.rubytool_shovel": "Rubytool Shovel",
-      "item.oregasm.rubytool_axe": "Rubytool Axe",
-      "item.oregasm.rubytool_sword": "Rubytool Sword",
-      "item.oregasm.rubytool_hoe": "Rubytool Hoe"
+      "item.oregasm.rubytool_pickaxe": "Ruby Pickaxe",
+      "item.oregasm.rubytool_shovel": "Ruby Shovel",
+      "item.oregasm.rubytool_axe": "Ruby Axe",
+      "item.oregasm.rubytool_sword": "Ruby Sword",
+      "item.oregasm.rubytool_hoe": "Ruby Hoe"
     }
   },
   "workspaceSettings": {

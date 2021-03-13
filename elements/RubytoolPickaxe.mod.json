@@ -5,10 +5,10 @@
     "renderType": 0,
     "texture": "rubytool_pickaxe",
     "customModelName": "Normal",
-    "name": "Rubytool Pickaxe",
+    "name": "Ruby Pickaxe",
     "specialInfo": [],
     "creativeTab": {
-      "value": "CUSTOM:Oregasm"
+      "value": "CUSTOM:OregasmTools"
     },
     "toolType": "Pickaxe",
     "harvestLevel": 5,

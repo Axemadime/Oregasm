@@ -9,7 +9,7 @@ import net.minecraft.item.ItemStack;
 import net.minecraft.item.Item;
 import net.minecraft.item.IItemTier;
 
-import net.mcreator.oregasm.itemgroup.OregasmItemGroup;
+import net.mcreator.oregasm.itemgroup.OregasmToolsItemGroup;
 import net.mcreator.oregasm.OregasmModElements;
 
 @OregasmModElements.ModElement.Tag
@@ -46,7 +46,7 @@ public class RubytoolPickaxeItem extends OregasmModElements.ModElement {
 			public Ingredient getRepairMaterial() {
 				return Ingredient.fromStacks(new ItemStack(RubyItem.block, (int) (1)));
 			}
-		}, 1, -2.8f, new Item.Properties().group(OregasmItemGroup.tab)) {
+		}, 1, -2.8f, new Item.Properties().group(OregasmToolsItemGroup.tab)) {
 		}.setRegistryName("rubytool_pickaxe"));
 	}
 }

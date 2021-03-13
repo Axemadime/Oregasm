@@ -5,10 +5,10 @@
     "renderType": 0,
     "texture": "rubytool_sword",
     "customModelName": "Normal",
-    "name": "Rubytool Sword",
+    "name": "Ruby Sword",
     "specialInfo": [],
     "creativeTab": {
-      "value": "COMBAT"
+      "value": "CUSTOM:OregasmWeapons"
     },
     "toolType": "Sword",
     "harvestLevel": 5,

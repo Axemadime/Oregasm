@@ -5,10 +5,10 @@
     "renderType": 0,
     "texture": "rubytool_hoe",
     "customModelName": "Normal",
-    "name": "Rubytool Hoe",
+    "name": "Ruby Hoe",
     "specialInfo": [],
     "creativeTab": {
-      "value": "TOOLS"
+      "value": "CUSTOM:OregasmTools"
     },
     "toolType": "Hoe",
     "harvestLevel": 5,

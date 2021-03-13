@@ -5,10 +5,10 @@
     "renderType": 0,
     "texture": "rubytool_axe",
     "customModelName": "Normal",
-    "name": "Rubytool Axe",
+    "name": "Ruby Axe",
     "specialInfo": [],
     "creativeTab": {
-      "value": "TOOLS"
+      "value": "CUSTOM:OregasmTools"
     },
     "toolType": "Axe",
     "harvestLevel": 5,

@@ -5,11 +5,11 @@ import net.minecraftforge.registries.ObjectHolder;
 
 import net.minecraft.item.crafting.Ingredient;
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.item.IItemTier;
 import net.minecraft.item.AxeItem;
 
+import net.mcreator.oregasm.itemgroup.OregasmToolsItemGroup;
 import net.mcreator.oregasm.OregasmModElements;
 
 @OregasmModElements.ModElement.Tag
@@ -46,7 +46,7 @@ public class RubytoolAxeItem extends OregasmModElements.ModElement {
 			public Ingredient getRepairMaterial() {
 				return Ingredient.fromStacks(new ItemStack(RubyItem.block, (int) (1)));
 			}
-		}, 1, -2.7f, new Item.Properties().group(ItemGroup.TOOLS)) {
+		}, 1, -2.7f, new Item.Properties().group(OregasmToolsItemGroup.tab)) {
 		}.setRegistryName("rubytool_axe"));
 	}
 }

@@ -5,10 +5,10 @@
     "renderType": 0,
     "texture": "rubytool_shovel",
     "customModelName": "Normal",
-    "name": "Rubytool Shovel",
+    "name": "Ruby Shovel",
     "specialInfo": [],
     "creativeTab": {
-      "value": "TOOLS"
+      "value": "CUSTOM:OregasmTools"
     },
     "toolType": "Spade",
     "harvestLevel": 5,
