@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "oregasm:ruby"
+    },
+    "title": {
+      "translate": "advancements.red_and_shiny.title"
+    },
+    "description": {
+      "translate": "advancements.red_and_shiny.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "red_and_shiny": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "oregasm:rubies"
+}

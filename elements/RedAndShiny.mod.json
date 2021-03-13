@@ -1,0 +1,25 @@
+{
+  "_fv": 15,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Red and Shiny",
+    "achievementDescription": "Obtain a piece of ruby armor.",
+    "achievementIcon": {
+      "value": "CUSTOM:Ruby"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [],
+    "rewardFunction": "No function",
+    "rewardXP": 1,
+    "achievementType": "goal",
+    "parent": {
+      "value": "CUSTOM:Rubies"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"custom_trigger\" x=\"14\" y=\"88\"><next><block type=\"advancement_trigger\" deletable=\"false\"></block></next></block></xml>"
+  }
+}

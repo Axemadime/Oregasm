@@ -2,11 +2,15 @@
   "item.oregasm.ruby": "Ruby",
   "itemGroup.taboregasm_tools": "Oregasm Tools",
   "itemGroup.taboregasm": "Oregasm Ore",
+  "advancements.rubies.descr": "Obtain ruby.",
+  "advancements.red_and_shiny.title": "Red and Shiny",
+  "item.oregasm.ruby_shovel": "Ruby Shovel",
+  "item.oregasm.ruby_hoe": "Ruby Hoe",
+  "item.oregasm.ruby_pickaxe": "Ruby Pickaxe",
   "itemGroup.taboregasm_combat": "Oregasm Combat",
   "block.oregasm.ruby_ore": "Ruby Ore",
   "item.oregasm.ruby_sword": "Ruby Sword",
-  "item.oregasm.ruby_shovel": "Ruby Shovel",
-  "item.oregasm.ruby_axe": "Ruby Axe",
-  "item.oregasm.ruby_hoe": "Ruby Hoe",
-  "item.oregasm.ruby_pickaxe": "Ruby Pickaxe"
+  "advancements.red_and_shiny.descr": "Obtain a piece of ruby armor.",
+  "advancements.rubies.title": "Rubies???",
+  "item.oregasm.ruby_axe": "Ruby Axe"
 }
