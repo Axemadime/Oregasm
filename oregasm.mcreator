@@ -1,0 +1,164 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "RubyOre",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "ruby_ore"
+    },
+    {
+      "name": "Ruby",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby"
+    },
+    {
+      "name": "Oregasm",
+      "type": "tab",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oregasm"
+    },
+    {
+      "name": "RubytoolPickaxe",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubytool_pickaxe"
+    },
+    {
+      "name": "RubytoolAxe",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubytool_axe"
+    },
+    {
+      "name": "RubytoolSword",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubytool_sword"
+    },
+    {
+      "name": "RubytoolShovel",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubytool_shovel"
+    },
+    {
+      "name": "RubytoolHoe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubytool_hoe"
+    },
+    {
+      "name": "RubytoolPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubytool_pickaxe_recipe"
+    },
+    {
+      "name": "RubytoolAxeRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubytool_axe_recipe"
+    },
+    {
+      "name": "RubytoolSwordRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubytool_sword_recipe"
+    },
+    {
+      "name": "RubytoolShovelRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubytool_shovel_recipe"
+    },
+    {
+      "name": "RubytoolHoeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubytool_hoe_recipe"
+    },
+    {
+      "name": "OregasmTools",
+      "type": "tab",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oregasm_tools"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.oregasm.ruby": "Ruby",
+      "itemGroup.taboregasm_tools": "Oregasm Tools",
+      "itemGroup.taboregasm": "Oregasm Ore",
+      "block.oregasm.ruby_ore": "Ruby Ore",
+      "item.oregasm.rubytool_pickaxe": "Rubytool Pickaxe",
+      "item.oregasm.rubytool_shovel": "Rubytool Shovel",
+      "item.oregasm.rubytool_axe": "Rubytool Axe",
+      "item.oregasm.rubytool_sword": "Rubytool Sword",
+      "item.oregasm.rubytool_hoe": "Rubytool Hoe"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "oregasm",
+    "modName": "Oregasm",
+    "version": "1.0.0",
+    "author": "Installation #234234, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.4",
+    "modElementsPackage": "net.mcreator.oregasm",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100103117
+}

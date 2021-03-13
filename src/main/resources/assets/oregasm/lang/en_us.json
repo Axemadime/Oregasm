@@ -1,0 +1,11 @@
+{
+  "item.oregasm.ruby": "Ruby",
+  "itemGroup.taboregasm_tools": "Oregasm Tools",
+  "itemGroup.taboregasm": "Oregasm Ore",
+  "block.oregasm.ruby_ore": "Ruby Ore",
+  "item.oregasm.rubytool_pickaxe": "Rubytool Pickaxe",
+  "item.oregasm.rubytool_shovel": "Rubytool Shovel",
+  "item.oregasm.rubytool_axe": "Rubytool Axe",
+  "item.oregasm.rubytool_sword": "Rubytool Sword",
+  "item.oregasm.rubytool_hoe": "Rubytool Hoe"
+}

@@ -1,0 +1,30 @@
+{
+  "group": "oregasm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "oregasm:ruby"
+    },
+    "1": {
+      "item": "oregasm:ruby"
+    },
+    "2": {
+      "item": "oregasm:ruby"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "oregasm:rubytool_pickaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "oregasm:blocks/ruby_ore",
+    "up": "oregasm:blocks/ruby_ore",
+    "north": "oregasm:blocks/ruby_ore",
+    "east": "oregasm:blocks/ruby_ore",
+    "south": "oregasm:blocks/ruby_ore",
+    "west": "oregasm:blocks/ruby_ore",
+    "particle": "oregasm:blocks/ruby_ore"
+  }
+}
