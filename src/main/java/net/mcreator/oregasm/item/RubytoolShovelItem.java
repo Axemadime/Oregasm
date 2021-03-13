@@ -24,23 +24,23 @@ public class RubytoolShovelItem extends OregasmModElements.ModElement {
 	public void initElements() {
 		elements.items.add(() -> new ShovelItem(new IItemTier() {
 			public int getMaxUses() {
-				return 250;
+				return 3069;
 			}
 
 			public float getEfficiency() {
-				return 6f;
+				return 12f;
 			}
 
 			public float getAttackDamage() {
-				return 0f;
+				return 2f;
 			}
 
 			public int getHarvestLevel() {
-				return 2;
+				return 5;
 			}
 
 			public int getEnchantability() {
-				return 14;
+				return 16;
 			}
 
 			public Ingredient getRepairMaterial() {
