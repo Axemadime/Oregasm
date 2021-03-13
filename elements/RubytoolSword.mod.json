@@ -3,7 +3,7 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "rubytool_sword",
+    "texture": "ruby_sword",
     "customModelName": "Normal",
     "name": "Ruby Sword",
     "specialInfo": [],
@@ -15,7 +15,7 @@
     "efficiency": 12.0,
     "attackSpeed": 1.0,
     "enchantability": 16,
-    "damageVsEntity": 11.0,
+    "damageVsEntity": 8.0,
     "usageCount": 3069,
     "blocksAffected": [],
     "hasGlow": false,

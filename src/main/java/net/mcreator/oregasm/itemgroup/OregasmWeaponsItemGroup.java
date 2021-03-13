@@ -18,7 +18,7 @@ public class OregasmWeaponsItemGroup extends OregasmModElements.ModElement {
 
 	@Override
 	public void initElements() {
-		tab = new ItemGroup("taboregasm_weapons") {
+		tab = new ItemGroup("taboregasm_combat") {
 			@OnlyIn(Dist.CLIENT)
 			@Override
 			public ItemStack createIcon() {

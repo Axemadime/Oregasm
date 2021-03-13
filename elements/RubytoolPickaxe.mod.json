@@ -3,7 +3,7 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "rubytool_pickaxe",
+    "texture": "ruby_pickaxe",
     "customModelName": "Normal",
     "name": "Ruby Pickaxe",
     "specialInfo": [],

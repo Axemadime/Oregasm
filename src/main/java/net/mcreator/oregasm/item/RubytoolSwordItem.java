@@ -32,7 +32,7 @@ public class RubytoolSwordItem extends OregasmModElements.ModElement {
 			}
 
 			public float getAttackDamage() {
-				return 9f;
+				return 6f;
 			}
 
 			public int getHarvestLevel() {

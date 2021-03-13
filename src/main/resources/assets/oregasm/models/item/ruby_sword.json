@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "oregasm:items/rubytool_sword"
+    "layer0": "oregasm:items/ruby_sword"
   }
 }
