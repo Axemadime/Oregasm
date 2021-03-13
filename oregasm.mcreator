@@ -153,6 +153,30 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "red_and_shiny"
+    },
+    {
+      "name": "Rubyarmor",
+      "type": "armor",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubyarmor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "OregasmArmor",
+      "type": "tab",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oregasm_armor"
     }
   ],
   "variable_elements": [],
@@ -167,8 +191,13 @@
       "item.oregasm.ruby_shovel": "Ruby Shovel",
       "item.oregasm.ruby_hoe": "Ruby Hoe",
       "item.oregasm.ruby_pickaxe": "Ruby Pickaxe",
+      "item.oregasm.rubyarmor_helmet": "Ruby Helmet",
+      "item.oregasm.rubyarmor_leggings": "Ruby Leggings",
+      "itemGroup.taboregasm_armor": "Oregasm Armor",
+      "item.oregasm.rubyarmor_chestplate": "Ruby Chestplate",
       "itemGroup.taboregasm_combat": "Oregasm Combat",
       "block.oregasm.ruby_ore": "Ruby Ore",
+      "item.oregasm.rubyarmor_boots": "Ruby Boots",
       "item.oregasm.ruby_sword": "Ruby Sword",
       "advancements.red_and_shiny.descr": "Obtain a piece of ruby armor.",
       "advancements.rubies.title": "Rubies???",
