@@ -52,7 +52,7 @@ public class RubyOreBlock extends OregasmModElements.ModElement {
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(10f, 20f).setLightLevel(s -> 0).harvestLevel(4)
-					.harvestTool(ToolType.PICKAXE).setRequiresTool());
+					.harvestTool(ToolType.PICKAXE));
 			setRegistryName("ruby_ore");
 		}
 
