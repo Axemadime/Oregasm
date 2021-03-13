@@ -185,8 +185,8 @@
     "en_us": {
       "item.oregasm.ruby": "Ruby",
       "itemGroup.taboregasm_tools": "Oregasm Tools",
-      "itemGroup.taboregasm": "Oregasm Ore",
       "advancements.rubies.descr": "Obtain ruby.",
+      "itemGroup.taboregasm": "Oregasm Ore",
       "advancements.red_and_shiny.title": "Red and Shiny",
       "item.oregasm.ruby_shovel": "Ruby Shovel",
       "item.oregasm.ruby_hoe": "Ruby Hoe",
@@ -200,7 +200,7 @@
       "item.oregasm.rubyarmor_boots": "Ruby Boots",
       "item.oregasm.ruby_sword": "Ruby Sword",
       "advancements.red_and_shiny.descr": "Obtain a piece of ruby armor.",
-      "advancements.rubies.title": "Rubies???",
+      "advancements.rubies.title": "Redstone??",
       "item.oregasm.ruby_axe": "Ruby Axe"
     }
   },
