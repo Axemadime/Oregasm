@@ -14,7 +14,7 @@ import net.mcreator.oregasm.OregasmModElements;
 
 @OregasmModElements.ModElement.Tag
 public class RubytoolHoeItem extends OregasmModElements.ModElement {
-	@ObjectHolder("oregasm:rubytool_hoe")
+	@ObjectHolder("oregasm:ruby_hoe")
 	public static final Item block = null;
 	public RubytoolHoeItem(OregasmModElements instance) {
 		super(instance, 8);
@@ -47,6 +47,6 @@ public class RubytoolHoeItem extends OregasmModElements.ModElement {
 				return Ingredient.fromStacks(new ItemStack(RubyItem.block, (int) (1)));
 			}
 		}, 0, -2.8f, new Item.Properties().group(OregasmToolsItemGroup.tab)) {
-		}.setRegistryName("rubytool_hoe"));
+		}.setRegistryName("ruby_hoe"));
 	}
 }

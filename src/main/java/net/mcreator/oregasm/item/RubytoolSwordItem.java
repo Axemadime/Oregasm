@@ -14,7 +14,7 @@ import net.mcreator.oregasm.OregasmModElements;
 
 @OregasmModElements.ModElement.Tag
 public class RubytoolSwordItem extends OregasmModElements.ModElement {
-	@ObjectHolder("oregasm:rubytool_sword")
+	@ObjectHolder("oregasm:ruby_sword")
 	public static final Item block = null;
 	public RubytoolSwordItem(OregasmModElements instance) {
 		super(instance, 6);
@@ -47,6 +47,6 @@ public class RubytoolSwordItem extends OregasmModElements.ModElement {
 				return Ingredient.fromStacks(new ItemStack(RubyItem.block, (int) (1)));
 			}
 		}, 3, -3f, new Item.Properties().group(OregasmWeaponsItemGroup.tab)) {
-		}.setRegistryName("rubytool_sword"));
+		}.setRegistryName("ruby_sword"));
 	}
 }

@@ -4,9 +4,9 @@
   "itemGroup.taboregasm": "Oregasm Ore",
   "itemGroup.taboregasm_weapons": "Oregasm Weapons",
   "block.oregasm.ruby_ore": "Ruby Ore",
-  "item.oregasm.rubytool_pickaxe": "Ruby Pickaxe",
-  "item.oregasm.rubytool_shovel": "Ruby Shovel",
-  "item.oregasm.rubytool_axe": "Ruby Axe",
-  "item.oregasm.rubytool_sword": "Ruby Sword",
-  "item.oregasm.rubytool_hoe": "Ruby Hoe"
+  "item.oregasm.ruby_sword": "Ruby Sword",
+  "item.oregasm.ruby_shovel": "Ruby Shovel",
+  "item.oregasm.ruby_axe": "Ruby Axe",
+  "item.oregasm.ruby_hoe": "Ruby Hoe",
+  "item.oregasm.ruby_pickaxe": "Ruby Pickaxe"
 }

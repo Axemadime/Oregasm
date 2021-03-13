@@ -14,7 +14,7 @@ import net.mcreator.oregasm.OregasmModElements;
 
 @OregasmModElements.ModElement.Tag
 public class RubytoolPickaxeItem extends OregasmModElements.ModElement {
-	@ObjectHolder("oregasm:rubytool_pickaxe")
+	@ObjectHolder("oregasm:ruby_pickaxe")
 	public static final Item block = null;
 	public RubytoolPickaxeItem(OregasmModElements instance) {
 		super(instance, 4);
@@ -47,6 +47,6 @@ public class RubytoolPickaxeItem extends OregasmModElements.ModElement {
 				return Ingredient.fromStacks(new ItemStack(RubyItem.block, (int) (1)));
 			}
 		}, 1, -2.8f, new Item.Properties().group(OregasmToolsItemGroup.tab)) {
-		}.setRegistryName("rubytool_pickaxe"));
+		}.setRegistryName("ruby_pickaxe"));
 	}
 }

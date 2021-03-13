@@ -14,7 +14,7 @@ import net.mcreator.oregasm.OregasmModElements;
 
 @OregasmModElements.ModElement.Tag
 public class RubytoolShovelItem extends OregasmModElements.ModElement {
-	@ObjectHolder("oregasm:rubytool_shovel")
+	@ObjectHolder("oregasm:ruby_shovel")
 	public static final Item block = null;
 	public RubytoolShovelItem(OregasmModElements instance) {
 		super(instance, 7);
@@ -47,6 +47,6 @@ public class RubytoolShovelItem extends OregasmModElements.ModElement {
 				return Ingredient.fromStacks(new ItemStack(RubyItem.block, (int) (1)));
 			}
 		}, 1, -3f, new Item.Properties().group(OregasmToolsItemGroup.tab)) {
-		}.setRegistryName("rubytool_shovel"));
+		}.setRegistryName("ruby_shovel"));
 	}
 }

@@ -35,7 +35,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "rubytool_pickaxe"
+      "registry_name": "ruby_pickaxe"
     },
     {
       "name": "RubytoolAxe",
@@ -44,7 +44,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "rubytool_axe"
+      "registry_name": "ruby_axe"
     },
     {
       "name": "RubytoolSword",
@@ -53,7 +53,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "rubytool_sword"
+      "registry_name": "ruby_sword"
     },
     {
       "name": "RubytoolShovel",
@@ -62,7 +62,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "rubytool_shovel"
+      "registry_name": "ruby_shovel"
     },
     {
       "name": "RubytoolHoe",
@@ -71,7 +71,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "rubytool_hoe"
+      "registry_name": "ruby_hoe"
     },
     {
       "name": "RubytoolPickaxeRecipe",
@@ -146,11 +146,11 @@
       "itemGroup.taboregasm": "Oregasm Ore",
       "itemGroup.taboregasm_weapons": "Oregasm Weapons",
       "block.oregasm.ruby_ore": "Ruby Ore",
-      "item.oregasm.rubytool_pickaxe": "Ruby Pickaxe",
-      "item.oregasm.rubytool_shovel": "Ruby Shovel",
-      "item.oregasm.rubytool_axe": "Ruby Axe",
-      "item.oregasm.rubytool_sword": "Ruby Sword",
-      "item.oregasm.rubytool_hoe": "Ruby Hoe"
+      "item.oregasm.ruby_sword": "Ruby Sword",
+      "item.oregasm.ruby_shovel": "Ruby Shovel",
+      "item.oregasm.ruby_axe": "Ruby Axe",
+      "item.oregasm.ruby_hoe": "Ruby Hoe",
+      "item.oregasm.ruby_pickaxe": "Ruby Pickaxe"
     }
   },
   "workspaceSettings": {
